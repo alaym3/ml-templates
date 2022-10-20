@@ -2,7 +2,29 @@
 
 ## 1. sdw
 
-### Tips from swd
+### steps
+1. understand the context
+2. choose an appropriate display
+3. eliminate clutter
+4. focus attention where you want it
+5. think like a designer
+6. tell a story
+
+### case study tips summary
+- white backgrounds are easier
+- leverage animation in presentations (e.g. starting from beginning, adding more lines to the graph as time goes on, etc... so people don't look ahead)
+     - the final, annotated graph, can be used in email distributions, etc.
+- group categories together by color blocks (e.g. satisfied = blues, unsatisfied = greys)
+- think of how our eyes go in z shape
+- sphagetti line graph tips:
+    - pull the lines apart vertically (such as sparklines for each) if seeing trend for each category alone is more important than comparing values across categories
+- pie alternatives
+    - horizontal stacked to 100%
+    - slopegraph
+
+### Tips from swd - more examples
+- title should be top left,  y axis label should be top left, x axis label should be bottom left (reduce eye movement)
+- grey titles, axis labels, etc
 - eye movement: 
     - top left of page, then right, then bottom left, then right (z shape)
     - key info should go top left
@@ -58,7 +80,26 @@
     - when detail isn't needed, summarize/group
     - push non-message-impacting items to the background
     - ask yourself if removing the piece would change anything. if no, remove.
-
+- accessibility
+    - legible
+    - clean
+    - straightforward language
+    - remove unecessary complexity
+- annotation
+   - use text to highlight key areas, explain nuance, etc.
+- aesthetics/pretty graphs
+   - people think prettier graphs are easier to use and like them more
+   - be smart with color
+   - keep things aligned nicely
+   - leverage white spaces
+- dark grey is good for the graph titles and axis labels because it has less contrast than black on white
+   - black bars/text/line can help emphasize things!
+- ways to start the story
+     - chronoligically
+     - lead with the ending (what you want the audience to do)
+- storytelling tips
+    - repetition so people remember
+    - the main character is the audience
 ### Quotes from swd:
 - If you’re wondering What is the right graph for my situation?, the answer is always the same: whatever will be easiest for your audience to read. There is an easy way to test this, which is to create your visual and show it to a friend or colleague. Have them articulate the following as they process the information: where they focus, what they see, what observations they make, what questions they have. This will help you assess whether your visual is hitting the mark, or in the case where it isn’t, help you know where to concentrate your changes. - Knaflic, Cole Nussbaumer. Storytelling with Data (p. 69). Wiley. Kindle Edition. 
    - **This is the key quote to use for testing/UX design!!**
@@ -81,10 +122,10 @@
 - Note that our perception is more limited when it comes to relative saturation, but one benefit we get is that it does carry with it some quantitative assumptions (that more heavily saturated represents greater value than less or vice versa—something you don’t get with the rainbow colors used originally as categorical differentiators). This works well for our purpose here, where the low numbers (market leaders) are denoted with the highest color saturation. We are drawn to the dark blue first—the market leaders. This is a more thoughtful use of color. - Knaflic, Cole Nussbaumer. Storytelling with Data (p. 119). Wiley. Kindle Edition. 
 - There is an easy test for determining whether preattentive attributes are being used effectively. Create your visual, then close your eyes or look away for a moment and then look back at it, taking note of where your eyes are drawn first. Do they immediately land where you want your audience to focus? Better yet, seek the help of a friend or colleague—ask them to talk you through how they process the visual: where their eyes go first, where they go next, and so on. This is a great way to see things through your audience’s eyes and confirm whether the visual you’ve created is drawing attention and creating a visual hierarchy of information in the way that you desire. - Knaflic, Cole Nussbaumer. Storytelling with Data (p. 120). Wiley. Kindle Edition. 
 - Without other visual cues, most members of your audience will start at the top left of your visual or slide and scan with their eyes in zigzag motions across the screen or page. They see the top of the page first, which makes this precious real estate. Think about putting the most important thing here - Knaflic, Cole Nussbaumer. Storytelling with Data (pp. 124-125). Wiley. Kindle Edition. 
-
-
-
-
-
+- Thoughtful use of text helps ensure that your data visualization is accessible. Text plays a number of roles in communicating with data: use it to label, introduce, explain, reinforce, highlight, recommend, and tell a story. - Knaflic, Cole Nussbaumer. Storytelling with Data (p. 141). Wiley. Kindle Edition. 
+- Don’t assume that two different people looking at the same data visualization will draw the same conclusion. If there is a conclusion you want your audience to reach, state it in words. Leverage preattentive attributes to make those important words stand out. - Knaflic, Cole Nussbaumer. Storytelling with Data (p. 141). Wiley. Kindle Edition. 
+- When it comes to communicating with data, is it really necessary to “make it pretty?” The answer is a resounding Yes. People perceive more aesthetic designs as easier to use than less aesthetic designs—whether they actually are or not. Studies have shown that more aesthetic designs are not only perceived as easier to use, but also more readily accepted and used over time, promote creative thinking and problem solving, and foster positive relationships, making people more tolerant of problems with designs. - Knaflic, Cole Nussbaumer. Storytelling with Data (p. 145). Wiley. Kindle Edition. 
+- Another way to think about the imbalance-balance-solution in your communication is to frame it in terms of the problem and your recommended solution. If you find yourself thinking, But I don’t have a problem!—you may want to reconsider. As we’ve discussed, conflict and dramatic tension are critical components of a story. A story where everything is rosy and is expected to continue to be is not so interesting, attention-grabbing, or action-inspiring. Think of conflict and tension—between the imbalance and balance, or in terms of the problem on which you are focusing—as the storytelling tools that will help you to engage your audience. Frame your story in terms of their (your audience’s) problem so that they immediately have a stake in the solution. - Knaflic, Cole Nussbaumer. Storytelling with Data (pp. 172-173). Wiley. Kindle Edition. 
+- The main character in every story we tell should be the same: our audience. It is by making our audience the protagonist that we can ensure the story is about them, not about us. By making the data we want to show relevant to our audience, it becomes a pivotal point in our story. No longer will you just show data. Rather, you will tell a story with data. - Knaflic, Cole Nussbaumer. Storytelling with Data (p. 185). Wiley. Kindle Edition. 
 ## 2. ????????
 
